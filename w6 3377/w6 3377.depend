@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519434233 source:d:\codeblocks\w6 3377\lscat.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

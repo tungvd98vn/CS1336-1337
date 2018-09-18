@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508215027 source:d:\codeblocks\sample\untitled2.c
+
+1508215052 source:d:\codeblocks\sample\untitled3.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<utility>
+

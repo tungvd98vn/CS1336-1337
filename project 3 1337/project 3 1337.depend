@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1490646381 source:d:\codeblocks\project 3 1337\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<sstream>
+	<cstdlib>
+	<iomanip>
+	"ElectricComponent.h"
+	"Resistor.h"
+	"Capatitor.h"
+	"Battery.h"
+
+1490577311 source:d:\codeblocks\project 3 1337\src\electriccomponent.cpp
+	"ElectricComponent.h"
+
+1490578407 d:\codeblocks\project 3 1337\include\electriccomponent.h
+	<string>
+
+1490576884 source:d:\codeblocks\project 3 1337\src\resistor.cpp
+	"Resistor.h"
+	<sstream>
+	<string>
+
+1490576684 d:\codeblocks\project 3 1337\include\resistor.h
+	<ElectricComponent.h>
+
+1490577095 source:d:\codeblocks\project 3 1337\src\capatitor.cpp
+	"Capatitor.h"
+	<sstream>
+	<string>
+
+1490577030 d:\codeblocks\project 3 1337\include\capatitor.h
+	<ElectricComponent.h>
+
+1490577237 d:\codeblocks\project 3 1337\include\battery.h
+	<ElectricComponent.h>
+
+1490577288 source:d:\codeblocks\project 3 1337\src\battery.cpp
+	"Battery.h"
+	<sstream>
+	<string>
+

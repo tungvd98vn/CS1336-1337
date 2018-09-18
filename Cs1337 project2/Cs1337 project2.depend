@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488419933 source:d:\codeblocks\cs1337 project2\project2.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cctype>
+

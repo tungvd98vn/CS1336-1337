@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1491974058 source:d:\codeblocks\project 4 1337\main.cpp
+	<iostream>
+	<string>
+	"Book.h"
+	"Bookshelf.h"
+
+1491972760 d:\codeblocks\project 4 1337\include\book.h
+	<string>
+
+1491972797 d:\codeblocks\project 4 1337\include\bookshelf.h
+	<string>
+	"Book.h"
+
+1491972760 source:d:\codeblocks\project 4 1337\src\book.cpp
+	"Book.h"
+
+1491973473 source:d:\codeblocks\project 4 1337\src\bookshelf.cpp
+	"Bookshelf.h"
+	<string>
+	<sstream>
+

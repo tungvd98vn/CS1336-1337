@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487795434 source:d:\codeblocks\cs1337 project 1\project1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
+1487036907 source:d:\codeblocks\cs1337 project 1\asda.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
